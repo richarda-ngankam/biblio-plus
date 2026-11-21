@@ -1,0 +1,135 @@
+[
+ {
+ "id": 1,
+ "title": "Le Petit Prince",
+ "author": "Antoine de Saint-Exupéry",
+ "category": "Roman",
+ "year": 1943,
+ "available": true,
+ "cover": "/covers/petit-prince.jpg",
+ "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+ }
+]
+
+[
+  {
+    "id": 1,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Roman",
+    "year": 1943,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 2,
+    "title": "L'Étranger",
+    "author": "Albert Camus",
+    "category": "Roman",
+    "year": 1942,
+    "available": false,
+    "cover": "/covers/etranger.jpg",
+    "summary": "Meursault apprend la mort de sa mère et commet un meurtre sous le soleil d'Alger."
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Roman",
+    "year": 1949,
+    "available": true,
+    "cover": "/covers/1984.jpg",
+    "summary": "Dans un monde totalitaire, Winston Smith tente de résister au Parti et à Big Brother."
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter à l'école des sorciers",
+    "author": "J.K. Rowling",
+    "category": "Jeunesse",
+    "year": 1997,
+    "available": true,
+    "cover": "/covers/harry-potter-1.jpg",
+    "summary": "Le jour de ses onze ans, Harry Potter découvre qu'il est un sorcier et entre à Poudlard."
+  },
+  {
+    "id": 5,
+    "title": "Le Seigneur des Anneaux",
+    "author": "J.R.R. Tolkien",
+    "category": "Roman",
+    "year": 1954,
+    "available": false,
+    "cover": "/covers/seigneur-anneaux.jpg",
+    "summary": "Frodon Sacquet doit détruire l'Anneau Unique pour sauver la Terre du Milieu."
+  },
+  {
+    "id": 6,
+    "title": "Sapiens : Une brève histoire de l'humanité",
+    "author": "Yuval Noah Harari",
+    "category": "Documentaire",
+    "year": 2011,
+    "available": true,
+    "cover": "/covers/sapiens.jpg",
+    "summary": "Une exploration fascinante de l'histoire de l'espèce humaine, de la préhistoire à nos jours."
+  },
+  {
+    "id": 7,
+    "title": "L'Île au trésor",
+    "author": "Robert Louis Stevenson",
+    "category": "Jeunesse",
+    "year": 1883,
+    "available": true,
+    "cover": "/covers/ile-tresor.jpg",
+    "summary": "Le jeune Jim Hawkins part à la recherche d'un trésor enfoui sur une île mystérieuse."
+  },
+  {
+    "id": 8,
+    "title": "Une brève histoire du temps",
+    "author": "Stephen Hawking",
+    "category": "Documentaire",
+    "year": 1988,
+    "available": false,
+    "cover": "/covers/temps.jpg",
+    "summary": "Un voyage à travers les mystères de l'univers, des trous noirs à la flèche du temps."
+  },
+  {
+    "id": 9,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "category": "Roman",
+    "year": 1862,
+    "available": true,
+    "cover": "/covers/miserables.jpg",
+    "summary": "L'histoire de Jean Valjean, ancien bagnard, dans une France du XIXe siècle en pleine mutation."
+  },
+  {
+    "id": 10,
+    "title": "Charlie et la Chocolaterie",
+    "author": "Roald Dahl",
+    "category": "Jeunesse",
+    "year": 1964,
+    "available": true,
+    "cover": "/covers/charlie.jpg",
+    "summary": "Charlie Bucket gagne un ticket d'or pour visiter la mystérieuse chocolaterie de Willy Wonka."
+  },
+  {
+    "id": 11,
+    "title": "Le Monde de Sophie",
+    "author": "Jostein Gaarder",
+    "category": "Documentaire",
+    "year": 1991,
+    "available": true,
+    "cover": "/covers/sophie.jpg",
+    "summary": "Une jeune fille reçoit des lettres anonymes qui l'entraînent dans un cours d'histoire de la philosophie."
+  },
+  {
+    "id": 12,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "category": "Roman",
+    "year": 1953,
+    "available": false,
+    "cover": "/covers/fahrenheit.jpg",
+    "summary": "Dans une société où les livres sont brûlés, un pompier commence à douter de sa mission."
+  }
+]
