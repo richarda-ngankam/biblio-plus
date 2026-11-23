@@ -5,7 +5,8 @@ import HomeView from '@/views/HomeView.vue'
 </script>
 
 <template>
+  <a class="skip-link" href="#contenu">Aller au contenu</a>
   <AppHeader />
-  <main id="contenu"><HomeView /></main>
+  <main id="contenu" tabindex="-1"><HomeView /></main>
   <AppFooter />
 </template>
